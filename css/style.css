@@ -206,11 +206,10 @@ body{
 }
 
 .block_two{
-	position: relative;
+	position: fixed;
 	width: 423px;
 	height: 300px;
 	display: inline-block;
-	bottom: 86px;
 }
 
 .php{
